@@ -8,19 +8,23 @@
 - 树莓派
 - 云台
 
-<img src="media/tracker.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
+<div align="center">
+    <img src="media/tracker.jpg" alt="图片替换文本" width="480" height="640" />
+</div>
 
 ### [云台购买详情请参考](https://www.uctronics.com/uctronics-pre-assembled-2-dof-pan-tilt-digital-servo-kit-full-metal-bracket-for-building-robotic-arms-ptz-cameras-and-more.html)
 
 ## 设备连接示意图
 
-<img src="media/tracker3.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
-
-<img src="media/tracker2.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
+<div align="center">
+    <img src="media/tracker2.jpg" alt="图片替换文本" width="480" height="640" style="transform:rotate(-90deg);" />
+</div>
 
 ## 演示
 
-![tracker](media/tracker.gif)
+<div align="center">
+    <img src="media/tracker.gif" alt="图片替换文本" width="300" height="300" />
+</div>
 
 ## 安装依赖
 
