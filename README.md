@@ -8,17 +8,25 @@
 - 树莓派
 - 云台
 
-<img src="media/traker.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
+<img src="media/tracker.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
+
+### [云台购买详情请参考](https://www.uctronics.com/uctronics-pre-assembled-2-dof-pan-tilt-digital-servo-kit-full-metal-bracket-for-building-robotic-arms-ptz-cameras-and-more.html)
+
+## 设备连接示意图
+
+<img src="media/tracker3.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
+
+<img src="media/tracker2.jpg" alt="图片替换文本" width="480" height="640" align="bottom" />
 
 ## 演示
 
-![traker](media/traker.gif)
+![tracker](media/tracker.gif)
 
 ## 安装依赖
 
 依赖项
 
-- depthai(>=2.1.0.0)
+- depthai(>=2.2.0.0)
 - opencv-python(>=3.4.0)
 - python(3.6+)
 
