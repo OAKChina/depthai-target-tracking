@@ -17,7 +17,7 @@
 ## 设备连接示意图
 
 <div align="center">
-    <img src="media/tracker2.jpg" alt="图片替换文本" width="480" height="640" style="transform:rotate(-90deg);" />
+    <img src="media/tracker2.jpg" alt="图片替换文本" width="640" height="480" />
 </div>
 
 ## 演示
